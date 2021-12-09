@@ -1,3 +1,4 @@
 # Grabmytx-1.3.6
 
-Coming soon...
+Le code source va bientôt être ajouter. 
+Quelques modifications sont en train d’être fait pour l’utilisation sur toutes les plateformes
