@@ -6,4 +6,4 @@ Des modifications seront effectuées pour remplacer le protocole de chiffrement 
 Je ne suis en aucun cas responsables de vos actes, <br> l’utilisation de se ransomware doit être uniquement à des fins éducatives. <br>
 Pour plus d’informations, contacter moi à l’adresse mail suivante : grabmytx@protonmail.com <br>
 <br>
-Auteur : Ro**on **tt**eu
+Auteur : Ro**on  **tt**eu
